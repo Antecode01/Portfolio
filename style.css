@@ -44,3 +44,7 @@ footer {
   position: relative;
   top: 100px;
 }
+.contact {
+  background-color: white;
+  padding: 10px;
+}
